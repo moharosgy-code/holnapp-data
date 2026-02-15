@@ -6,17 +6,33 @@
   "days": [
     {
       "date": "2026-02-16",
-      "dowHu": "hétfő",
-      "start": "08:00",
-      "end": "14:00",
-      "title": "EGYEDI_KOS",
-      "location": "Európa Kulturális Fővárosa – Veszprém",
+      "dayNameHu": "hétfő",
+
+      "startTime": "09:00",
+      "endTime": "15:00",
+
+      "schemeProductionTitle": "EGYEDI_KOS – Európa Kulturális Fővárosa – Veszprém",
+
       "isRestDay": false,
       "isDriver": true,
-      "hasHotel": false,
-      "hasID": true,
+      "isHotel": false,
+      "isAccredited": true,
+
+      "productionManagerName": "Gyártásvezető Gyuszi",
+      "carLicencePlate": "MT-VA-456",
+      "driverName": "Sofőr Károly",
+
+      "productionProjectName": "mittomén",
+      "productionProjectType": "Felvétel",
+      "projectId": "2026-000888-E0000",
+
       "isChanged": true,
-      "changedFields": ["start", "end"]
+      "changedFields": ["startTime", "endTime"],
+
+      "changes": {
+        "startTime": { "old": "08:00", "new": "09:00" },
+        "endTime": { "old": "14:00", "new": "15:00" }
+      }
     }
   ]
 }
