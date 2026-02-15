@@ -1,0 +1,22 @@
+{
+  "weekStart": "2026-02-16",
+  "weekEnd": "2026-02-22",
+  "lastUpdate": "2026-02-19T10:42:00",
+  "userName": "Kovács János",
+  "days": [
+    {
+      "date": "2026-02-16",
+      "dowHu": "hétfő",
+      "start": "08:00",
+      "end": "14:00",
+      "title": "EGYEDI_KOS",
+      "location": "Európa Kulturális Fővárosa – Veszprém",
+      "isRestDay": false,
+      "isDriver": true,
+      "hasHotel": false,
+      "hasID": true,
+      "isChanged": true,
+      "changedFields": ["start", "end"]
+    }
+  ]
+}
